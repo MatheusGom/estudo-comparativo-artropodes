@@ -23,7 +23,7 @@ Os modelos estudados foram:
     <strong>Faster R-CNN</strong> - Desenvolvido no repositório
   </li>
 </ul>
-Os experimentos foram conduzidos utilizando Kaggle Notebook e Jupyter Notebook, com foco em avaliar o desempenho, precisão de cada modelo.
+Os experimentos foram conduzidos utilizando <a href='https://www.kaggle.com/code/matheusga/treinamento-e-teste-dataset-artropodes' target='_blank'>Kaggle Notebook</a> e Jupyter Notebook, com foco em avaliar o desempenho, precisão de cada modelo.
 
 ## Objetivo
 O objetivo deste estudo é avaliar e comparar a eficiência de diferentes arquiteturas de detecção de objetos, destacando seus pontos fortes e limitações em cenários práticos de visão computacional.
@@ -112,7 +112,7 @@ The models studied were:
   <li> <strong>YOLOv5</strong> - <a href='https://www.mdpi.com/2077-0472/13/3/741' target='_blank'>Kumar et al.</a>; </li> 
   <li> <strong>Faster R-CNN</strong> - Developed in the repository </li> 
 </ul> 
-The experiments were conducted using Kaggle Notebook and Jupyter Notebook, focusing on evaluating the performance and accuracy of each model.
+The experiments were conducted using <a href='https://www.kaggle.com/code/matheusga/treinamento-e-teste-dataset-artropodes' target='_blank'>Kaggle Notebook</a> and Jupyter Notebook, focusing on evaluating the performance and accuracy of each model.
 
 ## Objective
 The goal of this study is to evaluate and compare the efficiency of different object detection architectures, highlighting their strengths and limitations in practical computer vision scenarios.
