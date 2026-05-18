@@ -23,7 +23,7 @@ Os modelos estudados foram:
     <strong>Faster R-CNN</strong> - Desenvolvido no repositório
   </li>
 </ul>
-Os experimentos foram conduzidos utilizando <a href='https://www.kaggle.com/code/matheusga/treinamento-e-teste-dataset-artropodes' target='_blank'>Kaggle Notebook</a> e Jupyter Notebook, com foco em avaliar o desempenho, precisão de cada modelo.
+Os experimentos foram conduzidos utilizando <a href='https://colab.research.google.com/drive/1M-EX_04YHwk1deaXgyTYFBjl64OJgEdm?usp=sharing' target='_blank'>Google Colab</a> e Jupyter Notebook, com foco em avaliar o desempenho, precisão de cada modelo.
 
 ## Objetivo
 O objetivo deste estudo é avaliar e comparar a eficiência de diferentes arquiteturas de detecção de objetos, destacando seus pontos fortes e limitações em cenários práticos de visão computacional.
@@ -36,11 +36,10 @@ O objetivo deste estudo é avaliar e comparar a eficiência de diferentes arquit
   <li>NumPy;</li>
   <li>Jupyter Notebook;</li>
   <li>Google Colab;</li>
-  <li>Kaggle Notebook;</li>
 </ul>
 
 ## Resultados obtidos
-Os resultados detalhados podem ser encontrados em nosso <a href='https://www.overleaf.com/read/scfpwgvmwrgj#9cdc76' target='_blank'>artigo</a>.
+Os resultados detalhados podem ser encontrados em nosso <a href='https://www.overleaf.com/read/cjzvrtkythkx#ab818b' target='_blank'>artigo</a>.
 
 <div align="center">
   <h2>Autores</h2>
@@ -112,7 +111,7 @@ The models studied were:
   <li> <strong>YOLOv5</strong> - <a href='https://www.mdpi.com/2077-0472/13/3/741' target='_blank'>Kumar et al.</a>; </li> 
   <li> <strong>Faster R-CNN</strong> - Developed in the repository </li> 
 </ul> 
-The experiments were conducted using <a href='https://www.kaggle.com/code/matheusga/treinamento-e-teste-dataset-artropodes' target='_blank'>Kaggle Notebook</a> and Jupyter Notebook, focusing on evaluating the performance and accuracy of each model.
+The experiments were conducted using <a href='https://colab.research.google.com/drive/1M-EX_04YHwk1deaXgyTYFBjl64OJgEdm?usp=sharing' target='_blank'>Google Colab</a> and Jupyter Notebook, focusing on evaluating the performance and accuracy of each model.
 
 ## Objective
 The goal of this study is to evaluate and compare the efficiency of different object detection architectures, highlighting their strengths and limitations in practical computer vision scenarios.
@@ -125,11 +124,10 @@ The goal of this study is to evaluate and compare the efficiency of different ob
   <li>NumPy;</li>
   <li>Jupyter Notebook;</li>
   <li>Google Colab;</li>
-  <li>Kaggle Notebook;</li>
 </ul>
 
 ## Results Obtained
-The detailed results can be found in our <a href='https://www.overleaf.com/read/scfpwgvmwrgj#9cdc76' target='_blank'>article</a>.
+The detailed results can be found in our <a href='https://www.overleaf.com/read/cjzvrtkythkx#ab818b' target='_blank'>article</a>.
 
 <div align="center">
   <h2>Authors</h2>
